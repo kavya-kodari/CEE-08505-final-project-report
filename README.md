@@ -3,7 +3,7 @@ Analysis of Local Stream Flow Patterns and Their Infrastructure Implications
 # 🌊 River Analysis Report
 
 **Date:** May 08, 2025  
-**Project:** CEE-08505 Final Project
+**Project:** CEE-08505 Analysis of Local Stream Flow Patterns and Their Infrastructure Implications
 
 ---
 
